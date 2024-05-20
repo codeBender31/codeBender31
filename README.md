@@ -50,4 +50,4 @@ Learning website for minority students to practice core skills like arithnetic a
 
 **Check out my repositories and let's connect!**
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/codeBender31)
