@@ -31,17 +31,17 @@ I'm a passionate Full Stack Developer and Open Source enthusiast from Texas.
 
 ## 🔥 Projects
 
-### Project 1: <Project Name>
-Description of the project. [Link to the project](https://github.com/your-username/project-name)
+### Project 1: Meet Me Halfway
+Cross Platform App to help users find a halfway meeting point. [Link to the project](https://github.com/your-username/project-name)
 
-### Project 2: <Project Name>
-Description of the project. [Link to the project](https://github.com/your-username/project-name)
+### Project 2: Epsilon+
+Learning website for minority students to practice core skills like arithnetic and track their reading. [Link to the project](https://github.com/codeBender31/Meet-Me-Halfway)
 
 ## 📊 GitHub Stats
 ![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=codeBender31&show_icons=true&theme=radical)
 
 ## 📈 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=codeBender31&layout=compact&theme=radical)
 
 ## 📽️ Animated Visuals
 ![Animated Visual](https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif)
