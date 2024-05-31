@@ -44,8 +44,8 @@ Learning website for minority students to practice core skills like arithnetic a
 ## 📈 Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=codeBender31&layout=compact&theme=radical)
 
-## 📽️ Animated Visuals
-![Animated Visual](https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif)
+## 📽️ Visuals
+![Animated Visual](https://user-images.githubusercontent.com/74038190/212750680-266fa8aa-39f1-4e8b-8873-7181dbaf3d7c.gif)
 
 ---
 
