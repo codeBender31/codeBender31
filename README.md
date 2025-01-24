@@ -18,26 +18,26 @@ I'm a passionate Full Stack Developer and Open Source enthusiast from Texas.
   <h3>Frontend</h3>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,react"/><br>
-    <img src="https://skillicons.dev/icons?i=flutter,figma"/>
+    <img src="https://skillicons.dev/icons?i=flutter,"/>
   </a>
 
   <!-- Backend Skills -->
   <h3>Backend</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,cpp,py,php,nodejs,c"/><br>
+    <img src="https://skillicons.dev/icons?i=java,cpp,py,php,nodejs,c,go"/><br>
     <img src="https://skillicons.dev/icons?i=arduino,docker"/>
   </a>
 
   <!-- Tools -->
   <h3>Tools</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,vscode,androidstudio,vim,bash,powershell,stackoverflow"/>
+    <img src="https://skillicons.dev/icons?i=git,vscode,androidstudio,vim,bash,powershell,stackoverflow,figma,eclipse,firebase,mongodb,mysql"/>
   </a>
 
   <!-- Miscellaneous -->
   <h3>Other</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=matlab,replit,unity,unreal,godot,linux,ai"/>
+    <img src="https://skillicons.dev/icons?i=replit,unity,unreal,godot,linux,ai,kali"/>
   </a>
 </div>
 
