@@ -13,6 +13,15 @@ I'm a passionate Full Stack Developer and Open Source enthusiast from Texas.
 
 ## 🛠️ My Skills
 
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,py,cpp,java,c,html,css,javascript,kotlin,swift,php"/><br>
+    <img src="https://skillicons.dev/icons?i=figma,vscode,androidstudio,vim,bash,powershell,flutter,fortran,stackoverflow"/><br>
+    <img src="https://skillicons.dev/icons?i=matlab,react,replit,arduino,docker"/>
+    <img src="https://skillicons.dev/icons?i=godot,unity,unreal,ai,linux"/>
+  </a>
+</div>
+
 ### Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
