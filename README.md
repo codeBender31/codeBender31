@@ -15,29 +15,27 @@ I'm a passionate Full Stack Developer and Open Source enthusiast from Texas.
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,py,cpp,java,c,html,css,javascript,kotlin,swift,php"/><br>
-    <img src="https://skillicons.dev/icons?i=figma,vscode,androidstudio,vim,bash,powershell,flutter,fortran,stackoverflow"/><br>
-    <img src="https://skillicons.dev/icons?i=matlab,react,replit,arduino,docker"/>
-    <img src="https://skillicons.dev/icons?i=godot,unity,unreal,ai,linux"/>
+    <!-- Frontend Skills -->
+    <h3>Frontend</h3>
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,react"/><br>
+    <img src="https://skillicons.dev/icons?i=flutter,figma"/><br>
+    
+    <!-- Backend Skills -->
+    <h3>Backend</h3>
+    <img src="https://skillicons.dev/icons?i=java,cpp,py,php,nodejs,c"/><br>
+    <img src="https://skillicons.dev/icons?i=arduino,docker"/><br>
+    
+    <!-- Tools -->
+    <h3>Tools</h3>
+    <img src="https://skillicons.dev/icons?i=git,vscode,androidstudio,vim,bash,powershell,stackoverflow"/><br>
+    
+    <!-- Miscellaneous -->
+    <h3>Other</h3>
+    <img src="https://skillicons.dev/icons?i=matlab,replit,unity,unreal,godot,linux,ai"/>
   </a>
 </div>
 
-### Languages
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;
 
-### Frontend
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5)&nbsp;
-
-### Backend
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![Express.js](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=express)&nbsp;
-![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
-
-### Tools
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 
 ## 🔥 Projects
 
