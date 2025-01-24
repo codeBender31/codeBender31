@@ -14,26 +14,33 @@ I'm a passionate Full Stack Developer and Open Source enthusiast from Texas.
 ## 🛠️ My Skills
 
 <div align="center">
+  <!-- Frontend Skills -->
+  <h3>Frontend</h3>
   <a href="https://skillicons.dev">
-    <!-- Frontend Skills -->
-    <h3>Frontend</h3>
     <img src="https://skillicons.dev/icons?i=html,css,javascript,react"/><br>
-    <img src="https://skillicons.dev/icons?i=flutter,figma"/><br>
-    
-    <!-- Backend Skills -->
-    <h3>Backend</h3>
+    <img src="https://skillicons.dev/icons?i=flutter,figma"/>
+  </a>
+
+  <!-- Backend Skills -->
+  <h3>Backend</h3>
+  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,cpp,py,php,nodejs,c"/><br>
-    <img src="https://skillicons.dev/icons?i=arduino,docker"/><br>
-    
-    <!-- Tools -->
-    <h3>Tools</h3>
-    <img src="https://skillicons.dev/icons?i=git,vscode,androidstudio,vim,bash,powershell,stackoverflow"/><br>
-    
-    <!-- Miscellaneous -->
-    <h3>Other</h3>
+    <img src="https://skillicons.dev/icons?i=arduino,docker"/>
+  </a>
+
+  <!-- Tools -->
+  <h3>Tools</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,vscode,androidstudio,vim,bash,powershell,stackoverflow"/>
+  </a>
+
+  <!-- Miscellaneous -->
+  <h3>Other</h3>
+  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=matlab,replit,unity,unreal,godot,linux,ai"/>
   </a>
 </div>
+
 
 
 
